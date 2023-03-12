@@ -22,6 +22,7 @@ and become a full-stack developer (or back-end). I'm always working on a project
 ##
 
 [![Twitter](./docs/badges/twitter.svg)](https://twitter.com/paodotdev)
+[![Mastodon](./docs/badges/mastodon.svg)](https://mastodon.social/@paodelonga)
 [![Discord](./docs/badges/discord.svg)](https://discordapp.com/users/242367322478739456)
 [![Proton Mail](./docs/badges/protonmail.svg)](mailto:paodelonga@proton.me)
 [![Spotify](./docs/badges/spotify.svg)](https://open.spotify.com/user/zxclashru)

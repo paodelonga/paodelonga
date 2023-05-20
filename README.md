@@ -10,7 +10,7 @@
 *My name is Abiel, AKA Pão, you can call me Abi (or Pão). I'm approximately 19 years old and live in Brazil.*
 
 I started programming as a hobby in 2021, and now I'm studying on my own to improve my programming skills<br>
-and become a full-stack developer . I'm always working in something, whether it's to contribute to others, for studies, or for my own interests.
+and become a software engineer. I'm always working in something, whether it's to contribute to others, for studies, or for my own interests.
 
 ![Linux](./docs/badges/linux.svg) 
 ![Awesome WM](./docs/badges/awesomewm.svg) 

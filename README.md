@@ -4,7 +4,7 @@
 "When We Set An Intention, Somehow The World Seems To Magically Come To Meet Us."
 ```
 
-<img src="./docs/nervous_trudy_the_love_barbarian.gif" width=600>
+<img src="./docs/banner.gif" width=600 alt="The Midnight Gospel - Nervous Trudy Goodman The Love Barbarian">
 </img>
   
 *My name is Abiel, AKA Pão, you can call me Abi (or Pão). I'm approximately 19 years old and live in Brazil.*

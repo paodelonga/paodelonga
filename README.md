@@ -9,29 +9,34 @@
   
 *My name is Abiel, AKA Pão, you can call me Abi (or Pão). I'm approximately 19 years old and live in Brazil.*
 
-I started programming as a hobby a few months ago, and now I'm studying on my own to improve my skills<br>
-and become a full-stack developer (or back-end). I'm always working on a project, whether it's to contribute to others, for my studies, or for my own interests.
+I started programming as a hobby in 2021, and now I'm studying on my own to improve my programming skills<br>
+and become a full-stack developer . I'm always working in something, whether it's to contribute to others, for studies, or for my own interests.
 
-<!-- ![Linux](./docs/badges/linux.svg) -->
-<!-- ![Awesome WM](./docs/badges/awesomewm.svg) -->
-<!-- ![Git](./docs/badges/git.svg) -->
-<!-- ![Github](./docs/badges/github.svg) -->
-<!-- ![Micro Editor](./docs/badges/microeditor.svg) -->
-<!-- ![Markdown](./docs/badges/markdown.svg) -->
+![Linux](./docs/badges/linux.svg) 
+![Awesome WM](./docs/badges/awesomewm.svg) 
+![Micro Editor](./docs/badges/microeditor.svg) 
+![Git](./docs/badges/git.svg) 
+![Github](./docs/badges/github.svg) 
+<br>
+![Markdown](./docs/badges/markdown.svg) 
+![Arduino](./docs/badges/arduino.svg) 
+![Python](./docs/badges/python.svg) 
+![Lua](./docs/badges/lua.svg) 
+![HTML](./docs/badges/html5.svg) 
+![CSS](./docs/badges/css3.svg) 
 
 ##
 
-[![Twitter](./docs/badges/twitter.svg)](https://twitter.com/paodotdev)
-[![Mastodon](./docs/badges/mastodon.svg)](https://mastodon.social/@paodelonga)
-[![Discord](./docs/badges/discord.svg)](https://discordapp.com/users/242367322478739456)
-[![Proton Mail](./docs/badges/protonmail.svg)](mailto:paodelonga@proton.me)
-[![Spotify](./docs/badges/spotify.svg)](https://open.spotify.com/user/zxclashru)
+[![Twitter profile](./docs/badges/twitter.svg)](https://twitter.com/paodotdev)
+[![Mastodon bolha.Us](./docs/badges/mastodon.svg)](https://bolha.us/@paodotdev)
+[![Discord friend invite](./docs/badges/discord.svg)](https://discordapp.com/users/242367322478739456)
+[![Spotify profile](./docs/badges/spotify.svg)](https://open.spotify.com/user/zxclashru)
 
 </div>
 
 <!--- TODO
 - Adicionar Linked In
-- Adicionar aqueles widgets bonitinhos e coisinhas de starts e etc etc
+- Adicionar aqueles widgets bonitinhos e coisinhas de stats e etc etc
 --->
 
 <!--- NOTES

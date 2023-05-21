@@ -31,6 +31,7 @@ and become a software engineer. I'm always working in something, whether it's to
 [![Mastodon bolha.Us](./docs/badges/mastodon.svg)](https://bolha.us/@paodotdev)
 [![Discord friend invite](./docs/badges/discord.svg)](https://discordapp.com/users/242367322478739456)
 [![Spotify profile](./docs/badges/spotify.svg)](https://open.spotify.com/user/zxclashru)
+[![LinkedIn profile](./docs/badges/linkedin.svg)](https://www.linkedin.com/in/abieldotdev)
 
 </div>
 

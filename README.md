@@ -19,7 +19,7 @@ and become a software engineer. I'm always working in something, whether it's to
 ![Github](./docs/badges/github.svg) 
 <br>
 ![Markdown](./docs/badges/markdown.svg) 
-![Arduino](./docs/badges/arduino.svg) 
+![C++](./docs/badges/cpp.svg) 
 ![Python](./docs/badges/python.svg) 
 ![Lua](./docs/badges/lua.svg) 
 ![HTML](./docs/badges/html5.svg) 
@@ -36,7 +36,6 @@ and become a software engineer. I'm always working in something, whether it's to
 </div>
 
 <!--- TODO
-- Adicionar Linked In
 - Adicionar aqueles widgets bonitinhos e coisinhas de stats e etc etc
 --->
 

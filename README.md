@@ -5,12 +5,14 @@
         <img src="./assets/banners/granite_waves-ing.gif" align="left" width=45%>
       </a>
     </div>
+    <!--  -->
     <div align="right">
       <p align="left">
         <strong>
           <samp>「 ┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄&nbsp;&nbsp;</samp>
         </strong>
       </p>
+      <!--  -->
       <p align="left">
         <samp>
           &nbsp; hi y'all :D<br>
@@ -43,6 +45,7 @@
           &nbsp; - pfp is a <a href="https://picrew.me/en/image_maker/2384161">picrew</a> by <a href="https://www.instagram.com/rayvpng_/">@rayvpng_</a><br>
           &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a>
       </p>
+      <!--  -->
       <p align="left">
         <strong>
           <samp>&nbsp;&nbsp;┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄ 」</samp>
@@ -60,10 +63,12 @@
             alt="stats graph"/>
         </td>
         <td>
+        <!--  -->
         <img
           src="https://streak-stats.demolab.com?user=paodelonga&theme=gotham&hide_border=true&mode=weekly&date_format=M%20j%5B,%20Y%5D&"
           alt="streak graph"/>
         </td>
+        <!--  -->
         <!-- <td>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?theme=gotham&username=paodelonga&hide_title=true&hide_border=true&hide_progress=true&langs_count=8&size_weight=0.5&count_weight=0.5"
@@ -74,6 +79,7 @@
     </table>
   <h2></h2>
   <samp>
+    <a href="https://paodelonga.github.io/">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •
     <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a> •
     <a href="mailto:paodelonga@proton.me">mail</a> •

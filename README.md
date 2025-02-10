@@ -2,7 +2,7 @@
   <div align="center">
     <div align="left">
       <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=45%>
+        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=42%>
       </a>
     </div>
     <!--  -->
@@ -23,9 +23,8 @@
           &nbsp; - pt_br, en_us, de;<br>
           <br>
           &nbsp; - a big curious 'n self-learner;<br>
-          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br/instituto">IF</a>;<br>
+          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br">IF</a>;<br>
           &nbsp; - self-taught in computer engineering (kind of);<br>
-          &nbsp; - enrolled at <a href="https://www.linkedin.com/school/incode-tech-school">INCODE Tech School</a>;<br>
           <br>
           &nbsp; - computers, coffee, tea, retro things;<br>
           &nbsp; - pixel art, hacking cult, music, unix;<br>
@@ -42,7 +41,6 @@
           &nbsp; - bash, lua, python, c++, js, ts, java, rusto;<br>
           &nbsp; - nix, markdown, latex, ansible, pring;<br>
           <br>
-          &nbsp; - pfp is a <a href="https://picrew.me/en/image_maker/2384161">picrew</a> by <a href="https://www.instagram.com/rayvpng_/">@rayvpng_</a><br>
           &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a>
       </p>
       <!--  -->
@@ -84,7 +82,6 @@
     <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a> •
     <a href="mailto:paodelonga@proton.me">mail</a> •
     <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a> •
-    <a href="https://linkedin.com/in/paodelonga">linkedin</a>
   </samp>
   </div>
 </div>

@@ -77,7 +77,7 @@
     </table>
   <h2></h2>
   <samp>
-    <a href="https://paodelonga.github.io/linker">linker</a> •
+    • <a href="https://paodelonga.github.io/linker">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •
     <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a> •
     <a href="mailto:paodelonga@proton.me">mail</a> •

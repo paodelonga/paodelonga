@@ -52,30 +52,6 @@
     </div>
   </div>
   <h2></h2>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <img
-            src="https://github-readme-stats.vercel.app/api?theme=gotham&username=paodelonga&hide_title=true&hide_border=true&hide_rank=true&show_icons=true"
-            alt="stats graph"/>
-        </td>
-        <td>
-        <!--  -->
-        <img
-          src="https://streak-stats.demolab.com?user=paodelonga&theme=gotham&hide_border=true&mode=weekly&date_format=M%20j%5B,%20Y%5D&"
-          alt="streak graph"/>
-        </td>
-        <!--  -->
-        <!-- <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?theme=gotham&username=paodelonga&hide_title=true&hide_border=true&hide_progress=true&langs_count=8&size_weight=0.5&count_weight=0.5"
-          height="150"
-          alt="languages graph"/>
-        </td> -->
-      </tr>
-    </table>
-  <h2></h2>
   <samp>
     • <a href="https://paodelonga.github.io/linker">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •

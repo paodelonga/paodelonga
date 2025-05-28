@@ -53,10 +53,10 @@
   </div>
   <h2></h2>
   <samp>
-    • <a href="https://paodelonga.github.io/linker">linker</a> •
+    • <a href="https://linker.paodelonga.dev">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •
-    <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a> •
-    <a href="mailto:paodelonga@proton.me">mail</a> •
+    <a href="https://bsky.app/profile/paodelonga.dev">bsky</a> •
+    <a href="mailto:me@paodelonga.dev">mail-me</a> •
     <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a> •
   </samp>
   </div>

@@ -59,6 +59,7 @@
     <a href="https://bsky.app/profile/paodelonga.dev">bsky</a> •
     <a href="mailto:me@paodelonga.dev">mail-me</a> •
     <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a> •
+    <a href="./assets/my_screen_short.png">if broken layout</a> •
   </samp>
   </div>
 </div>

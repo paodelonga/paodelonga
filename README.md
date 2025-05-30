@@ -15,17 +15,15 @@
       <!--  -->
       <p align="left">
         <samp>
-          &nbsp; hi y'all :D<br>
-          <br>
           &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
           &nbsp; - brazilian (<a href="https://www.google.com/search?q=Maranhão">Maranhense</a>);<br>
           &nbsp; - pt_br, en_us, de_ge;<br>
           <br>
-          &nbsp; - a ultra curious & self-learner (mostly self-driven);<br>
-          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br/">IFMA</a>;<br>
-          &nbsp; - systems & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
+          &nbsp; - a curious & self-learner (mostly self-driven);<br>
+          &nbsp; - network eng. student at <a href="https://portal.ifma.edu.br/">IFMA</a>, sys & net admin at <a href="https://www.senac.br/">SENAC</a>;<br>
           &nbsp; - intern at <a href="https://www.ma.gov.br/">Maranhão Public Archive</a>;<br>
-          &nbsp; - eyeing devops & infra, degree in comp engineering;<br>
+          &nbsp; - eyeing devops, infra, degree in comp engineering<br>
+          &nbsp; - side hustle: prod infra, homelab, minecraft servers;<br>
           <br>
           &nbsp; - computers, tea, retro tech, minecraft;<br>
           &nbsp; - music, linux, nix, pixel art, servers;<br>
@@ -43,11 +41,7 @@
           <br>
           &nbsp; - python, java, js, ts, c++, lua, rust;<br>
           &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
-          <br>
-          &nbsp; - future goals: devops gigs, move out, hybrid/remote work;<br>
-          &nbsp; - side hustle: prod infra (things should be kept), homelab (breaking & fixing stuff)<br>
-          <br>
-          &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a>
+          &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
       </p>
       <!--  -->
       <p align="left">

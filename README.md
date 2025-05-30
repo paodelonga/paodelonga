@@ -21,9 +21,12 @@
           &nbsp; - brazilian (<a href="https://www.google.com/search?q=Maranhão">Maranhense</a>);<br>
           &nbsp; - pt_br, en_us, de_ge;<br>
           <br>
-          &nbsp; - a big curious 'n self-learner;<br>
-          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br">IF</a>;<br>
-          &nbsp; - self-taught in computer engineering (kind of);<br>
+          &nbsp; - a ultra curious & self-learner (mostly self-driven);<br>
+          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br/">IFMA</a>;<br>
+          &nbsp; - systems & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
+          &nbsp; - intern at <a href="https://www.ma.gov.br/">Maranhão Public Archive</a>;<br>
+          &nbsp; - self-taught in computer engineering, devops & infra;<br>
+          &nbsp; - eyeing: devops, devsecops & infraestructure;<br>
           <br>
           &nbsp; - computers, coffee, tea, retro things;<br>
           &nbsp; - pixel art, hacking cult, music, unix;<br>

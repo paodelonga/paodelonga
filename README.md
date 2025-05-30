@@ -17,10 +17,9 @@
         <samp>
           &nbsp; hi y'all :D<br>
           <br>
-          &nbsp; - call me Pão (/pɐ̃w̃/)<br>
-          &nbsp; - they/them;<br>
-          &nbsp; - brazillian;<br>
-          &nbsp; - pt_br, en_us, de;<br>
+          &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
+          &nbsp; - brazilian (<a href="https://www.google.com/search?q=Maranhão">Maranhense</a>);<br>
+          &nbsp; - pt_br, en_us, de_ge;<br>
           <br>
           &nbsp; - a big curious 'n self-learner;<br>
           &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br">IF</a>;<br>

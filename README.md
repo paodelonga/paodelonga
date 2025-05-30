@@ -25,23 +25,27 @@
           &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br/">IFMA</a>;<br>
           &nbsp; - systems & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
           &nbsp; - intern at <a href="https://www.ma.gov.br/">Maranhão Public Archive</a>;<br>
-          &nbsp; - self-taught in computer engineering, devops & infra;<br>
-          &nbsp; - eyeing: devops, devsecops & infraestructure;<br>
+          &nbsp; - eyeing devops & infra, degree in comp engineering;<br>
           <br>
-          &nbsp; - computers, coffee, tea, retro things;<br>
-          &nbsp; - pixel art, hacking cult, music, unix;<br>
-          &nbsp; - foss, floss, oss, libre or whatever;<br>
+          &nbsp; - computers, tea, retro tech, minecraft;<br>
+          &nbsp; - music, linux, nix, pixel art, servers;<br>
           <br>
-          &nbsp; - back-end, devops, infra;<br>
+          &nbsp; - back-end, devops, infra, networks;<br>
+          &nbsp; - switching, routing, firewalls, network design;<br>
+          &nbsp; - docker, kubernetes, terraform, openstack, aws;<br>
           <br>
-          &nbsp; - ubuntu, windows, debian;<br>
-          &nbsp; - mint, arch(main), suse, mx;<br>
+          &nbsp; - ubuntu, mint, debian, nixos, arch(main);<br>
+          &nbsp; - windows, suse, centos, vmware, kvm, proxmox;<br>
           <br>
-          &nbsp; - git, github, codeberg, gitlab, docker;<br>
-          &nbsp; - proxmox, prometheus, grafana, nginx;<br>
+          &nbsp; - git, gitea, github, gitlab, codeberg, prometheus;<br>
+          &nbsp; - grafana, zabbix, nagios, elasticsearch, fail2ban;<br>
+          &nbsp; - crowdsec, firewalld, nginx, traefik, cloudflare, ansible;<br>
           <br>
-          &nbsp; - bash, lua, python, c++, js, ts, java, rusto;<br>
-          &nbsp; - nix, markdown, latex, ansible, pring;<br>
+          &nbsp; - python, java, js, ts, c++, lua, rust;<br>
+          &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
+          <br>
+          &nbsp; - future goals: devops gigs, move out, hybrid/remote work;<br>
+          &nbsp; - side hustle: prod infra (things should be kept), homelab (breaking & fixing stuff)<br>
           <br>
           &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a>
       </p>

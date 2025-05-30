@@ -15,33 +15,33 @@
       <!--  -->
       <p align="left">
         <samp>
-          &nbsp; hi y'all :D<br>
+          &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
+          &nbsp; - brazilian (<a href="https://www.google.com/search?q=Maranhão">Maranhense</a>);<br>
+          &nbsp; - pt_br, en_us, de_ge;<br>
           <br>
-          &nbsp; - call me Pão (/pɐ̃w̃/)<br>
-          &nbsp; - they/them;<br>
-          &nbsp; - brazillian;<br>
-          &nbsp; - pt_br, en_us, de;<br>
+          &nbsp; - a curious & self-learner (mostly self-driven);<br>
+          &nbsp; - network eng. student at <a href="https://portal.ifma.edu.br/">IFMA</a>, sys & net admin at <a href="https://www.senac.br/">SENAC</a>;<br>
+          &nbsp; - intern at <a href="https://www.ma.gov.br/">Maranhão Public Archive</a>;<br>
+          &nbsp; - eyeing devops, infra, degree in comp engineering<br>
+          &nbsp; - side hustle: prod infra, homelab, minecraft servers;<br>
           <br>
-          &nbsp; - a big curious 'n self-learner;<br>
-          &nbsp; - network engineering student at <a href="https://portal.ifma.edu.br">IF</a>;<br>
-          &nbsp; - self-taught in computer engineering (kind of);<br>
+          &nbsp; - computers, tea, retro tech, minecraft;<br>
+          &nbsp; - music, linux, nix, pixel art, servers;<br>
           <br>
-          &nbsp; - computers, coffee, tea, retro things;<br>
-          &nbsp; - pixel art, hacking cult, music, unix;<br>
-          &nbsp; - foss, floss, oss, libre or whatever;<br>
+          &nbsp; - back-end, devops, infra, networks;<br>
+          &nbsp; - switching, routing, firewalls, network design;<br>
+          &nbsp; - docker, kubernetes, terraform, openstack, aws;<br>
           <br>
-          &nbsp; - back-end, devops, infra;<br>
+          &nbsp; - ubuntu, mint, debian, nixos, arch(main);<br>
+          &nbsp; - windows, suse, centos, vmware, kvm, proxmox;<br>
           <br>
-          &nbsp; - ubuntu, windows, debian;<br>
-          &nbsp; - mint, arch(main), suse, mx;<br>
+          &nbsp; - git, gitea, github, gitlab, codeberg, prometheus;<br>
+          &nbsp; - grafana, zabbix, nagios, elasticsearch, fail2ban;<br>
+          &nbsp; - crowdsec, firewalld, nginx, traefik, cloudflare, ansible;<br>
           <br>
-          &nbsp; - git, github, codeberg, gitlab, docker;<br>
-          &nbsp; - proxmox, prometheus, grafana, nginx;<br>
-          <br>
-          &nbsp; - bash, lua, python, c++, js, ts, java, rusto;<br>
-          &nbsp; - nix, markdown, latex, ansible, pring;<br>
-          <br>
-          &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a>
+          &nbsp; - python, java, js, ts, c++, lua, rust;<br>
+          &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
+          &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
       </p>
       <!--  -->
       <p align="left">
@@ -55,10 +55,11 @@
   <samp>
     • <a href="https://linker.paodelonga.dev">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •
-    <a href="https://devto.paodelonga.dev">devto</a> •
+    <a href="https://dev.to/paodelonga">devto</a> •
     <a href="https://bsky.app/profile/paodelonga.dev">bsky</a> •
     <a href="mailto:me@paodelonga.dev">mail-me</a> •
     <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a> •
+    <a href="./assets/my_screen_short.png">if broken layout</a> •
   </samp>
   </div>
 </div>

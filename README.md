@@ -55,10 +55,10 @@
   <samp>
     • <a href="https://linker.paodelonga.dev">linker</a> •
     <a href="https://discordapp.com/users/242367322478739456">discord</a> •
-    <a href="https://dev.to/paodelonga">devto</a> •
+    <a href="https://dev.to/paodelonga">blog</a> •
     <a href="https://bsky.app/profile/paodelonga.dev">bsky</a> •
     <a href="mailto:me@paodelonga.dev">mail-me</a> •
-    <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a> •
+    <a href="https://vitae.paodelonga.dev">curriculum</a> •
     <a href="./assets/my_screen_short.png">if broken layout</a> •
   </samp>
   </div>

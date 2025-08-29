@@ -2,19 +2,18 @@
   <div align="center">
     <div align="left">
       <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=42%>
+        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=350vh>
       </a>
     </div>
-    <!--  -->
     <div align="right">
-      <p align="left">
-        <strong>
-          <samp>「 ┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄&nbsp;&nbsp;</samp>
-        </strong>
-      </p>
-      <!--  -->
+      <!-- <p align="left"> -->
+      <!--   <strong> -->
+      <!--     <samp>「 ┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄&nbsp;&nbsp;</samp> -->
+      <!--   </strong> -->
+      <!-- </p> -->
       <p align="left">
         <samp>
+          <br
           &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
           &nbsp; - Brazilian with a alter-ego in Cologne, Germany;<br>
           &nbsp; - pt_br, en_us, de_ge;<br>
@@ -42,22 +41,22 @@
           &nbsp; - python, java, js, ts, c++, lua, rust;<br>
           &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
           &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
+          <br>
       </p>
-      <!--  -->
-      <p align="left">
-        <strong>
-          <samp>&nbsp;&nbsp;┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄ 」</samp>
-        </strong>
-      </p>
+      <!-- <p align="left"> -->
+      <!--   <strong> -->
+      <!--     <samp>&nbsp;&nbsp;┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄ 」</samp> -->
+      <!--   </strong> -->
+      <!-- </p> -->
     </div>
   </div>
   <h2></h2>
   <samp>
     • <a href="https://linker.paodelonga.dev">other links</a> •
     <a href="https://discordapp.com/users/242367322478739456">on discord</a> •
-    <a href="https://blog.paodelonga.dev">a blog</a> •
+    <a href="https://blog.paodelonga.dev">notes</a> •
     <a href="mailto:me@paodelonga.dev">contact me</a> •
-    <a href="https://vitae.paodelonga.dev">see curriculum</a> •
+    <a href="https://vitae.paodelonga.dev">see resume</a> •
   </samp>
   </div>
 </div>

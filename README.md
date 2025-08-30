@@ -2,7 +2,7 @@
   <div align="center">
     <div align="left">
       <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=350vh>
+        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=330vw>
       </a>
     </div>
     <div align="right">

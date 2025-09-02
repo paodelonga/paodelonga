@@ -1,10 +1,10 @@
 <div align="center">
   <div align="center">
-    <div align="left">
+<!--     <div align="left">
       <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
         <img src="./assets/banners/granite_waves-ing.gif" align="left" width=330vw>
       </a>
-    </div>
+    </div> -->
     <div align="right">
       <!-- <p align="left"> -->
       <!--   <strong> -->
@@ -57,6 +57,7 @@
     <a href="https://blog.paodelonga.dev">notes</a> •
     <a href="mailto:me@paodelonga.dev">contact me</a> •
     <a href="https://vitae.paodelonga.dev">see resume</a> •
+    <a href="./assets/not_broken_profile.png">with banner!</a> •
   </samp>
   </div>
 </div>

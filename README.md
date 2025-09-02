@@ -53,7 +53,7 @@
   <h2></h2>
   <samp>
     • <a href="https://linker.paodelonga.dev">other links</a> •
-    <a href="https://discordapp.com/users/242367322478739456">on discord</a> •
+    <a href="https://discord.gg/cTAEYXPt">on discord</a> •
     <a href="https://blog.paodelonga.dev">notes</a> •
     <a href="mailto:me@paodelonga.dev">contact me</a> •
     <a href="https://vitae.paodelonga.dev">see resume</a> •

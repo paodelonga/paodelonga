@@ -21,7 +21,7 @@
           &nbsp; - network eng. student at <a href="https://ifma.edu.br/">Federal</a>;<br>
           &nbsp; - system & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
           &nbsp; - eyeing devops, infra 'n a degree in comp engineering;<br>
-          &nbsp; - side hustle: deploy stuffs, homelab, <a href="https://github.com/vrykolakasmc">minecraft servers</a>;<br>
+          &nbsp; - side hustle: deploy stuffs, homelab, minecraft servers<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
           <br>
           &nbsp; - computers, tea, retro tech, minecraft;<br>
           &nbsp; - music, linux, nix, pixel art, servers;<br>

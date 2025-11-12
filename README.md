@@ -15,7 +15,6 @@
         <samp>
           <br
           &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
-          &nbsp; - Brazilian with a alter-ego in Cologne, Germany;<br>
           &nbsp; - pt_br, en_us, de_ge;<br>
           <br>
           &nbsp; - a curious & self-learner;<br>

@@ -24,7 +24,7 @@
           &nbsp; - side hustle: deploy stuffs, homelab, minecraft servers<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
           <br>
           &nbsp; - computers, tea, retro tech, minecraft;<br>
-          &nbsp; - music, linux, nix, pixel art, servers;<br>
+          &nbsp; - music, linux, nix, pixel art, homelab;<br>
           <br>
           &nbsp; - back-end, devops, infra, networks;<br>
           &nbsp; - switching, routing, firewalls, network design;<br>

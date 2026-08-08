@@ -1,10 +1,10 @@
 <div align="center">
   <div align="center">
-<!--     <div align="left">
-      <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-        <img src="./assets/banners/granite_waves-ing.gif" align="left" width=330vw>
-      </a>
-    </div> -->
+    <!-- <div align="left"> -->
+    <!--   <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze"> -->
+    <!--     <img src="./assets/banners/granite_waves-ing.gif" align="left" width=330vw> -->
+    <!--   </a> -->
+    <!-- </div> -->
     <div align="right">
       <!-- <p align="left"> -->
       <!--   <strong> -->
@@ -39,7 +39,7 @@
           <br>
           &nbsp; - python, java, js, ts, c++, lua, rust;<br>
           &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
-          &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
+          <!-- &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br> -->
           <br>
       </p>
       <!-- <p align="left"> -->
@@ -51,11 +51,11 @@
   </div>
   <h2></h2>
   <samp>
-    • <a href="https://linker.paodelonga.dev">other links</a> •
+    • <a href="https://paodelonga.github.io">other links</a> •
     <a href="https://discord.gg/M9ybT9a5pB">on discord</a> •
     <a href="https://blog.paodelonga.dev">notes</a> •
-    <a href="mailto:me@paodelonga.dev">contact me</a> •
-    <a href="https://vitae.paodelonga.dev">see resume</a> •
+    <a href="mailto:paodelonga@proton.me">contact me</a> •
+    <a href="https://paodelonga.github.io/vitae">see resume</a> •
     <a href="./assets/not_broken_profile.png">with banner!</a> •
   </samp>
   </div>

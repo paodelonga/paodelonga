@@ -37,7 +37,8 @@
     • <a href="https://paodelonga.dev">other links</a> •
     <a href="https://discord.gg/M9ybT9a5pB">on discord</a> •
     <a href="https://linker.paodelonga.dev">links</a> •
-    <a href="mailto:paodelonga@proton.me">contact me</a> •
+    <a href="https://blog.paodelonga.dev">notes</a> •
+    <a href="mailto:me@paodelonga.dev">contact me</a> •
     <a href="https://vitae.paodelonga.dev">see resume</a> •
     <a href="./README.md">pt-br</a> •
   </samp>

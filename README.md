@@ -53,7 +53,8 @@
     • <a href="https://paodelonga.dev">outros links</a> •
     <a href="https://discord.gg/M9ybT9a5pB">no discord</a> •
     <a href="https://linker.paodelonga.dev">links</a> •
-    <a href="mailto:paodelonga@proton.me">contato</a> •
+    <a href="https://blog.paodelonga.dev">notas</a> •
+    <a href="mailto:me@paodelonga.dev">contato</a> •
     <a href="https://vitae.paodelonga.dev">ver currículo</a> •
     <a href="./README.en.md">en-us</a> •
     <a href="./assets/not_broken_profile.png">com banner!</a> •

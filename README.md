@@ -13,24 +13,23 @@
       <!-- </p> -->
       <p align="left">
         <samp>
-          <br
-          &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
-          &nbsp; - pt_br, en_us, de_ge;<br>
+          &nbsp; - me chame de Pão (/pɐ̃w̃/) (they/them);<br>
+          &nbsp; - pt_br (principal), en_us, de_ge;<br>
           <br>
-          &nbsp; - a curious & self-learner;<br>
-          &nbsp; - network eng. student at <a href="https://ifma.edu.br/">Federal</a>;<br>
-          &nbsp; - system & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
-          &nbsp; - eyeing devops, infra 'n a degree in comp engineering;<br>
-          &nbsp; - side hustle: deploy stuffs, homelab, minecraft servers<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
+          &nbsp; - curioso e autodidata;<br>
+          &nbsp; - estudante de redes na <a href="https://ifma.edu.br/">IFMA</a>;<br>
+          &nbsp; - administrador de sistemas e redes no <a href="https://www.senac.br/">SENAC</a>;<br>
+          &nbsp; - de olho em devops, infra e engenharia da computação;<br>
+          &nbsp; - projeto paralelo: deploy de coisas, homelab, servidores de minecraft<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
           <br>
-          &nbsp; - computers, tea, retro tech, minecraft;<br>
-          &nbsp; - music, linux, nix, pixel art, homelab;<br>
+          &nbsp; - computadores, chá, tecnologia retrô, minecraft;<br>
+          &nbsp; - música, linux, nix, pixel art, homelab;<br>
           <br>
-          &nbsp; - back-end, devops, infra, networks;<br>
-          &nbsp; - switching, routing, firewalls, network design;<br>
+          &nbsp; - back-end, devops, infra, redes;<br>
+          &nbsp; - switching, roteamento, firewalls, projeto de redes;<br>
           &nbsp; - docker, kubernetes, terraform, openstack, aws;<br>
           <br>
-          &nbsp; - ubuntu, mint, debian, nixos, arch(main);<br>
+          &nbsp; - ubuntu, mint, debian, nixos, arch(principal);<br>
           &nbsp; - windows, suse, centos, vmware, kvm, proxmox;<br>
           <br>
           &nbsp; - git, gitea, github, gitlab, codeberg, prometheus;<br>
@@ -51,12 +50,13 @@
   </div>
   <h2></h2>
   <samp>
-    • <a href="https://paodelonga.github.io">other links</a> •
-    <a href="https://discord.gg/M9ybT9a5pB">on discord</a> •
-    <a href="https://blog.paodelonga.dev">notes</a> •
-    <a href="mailto:paodelonga@proton.me">contact me</a> •
-    <a href="https://paodelonga.github.io/vitae">see resume</a> •
-    <a href="./assets/not_broken_profile.png">with banner!</a> •
+    • <a href="https://paodelonga.dev">outros links</a> •
+    <a href="https://discord.gg/M9ybT9a5pB">no discord</a> •
+    <a href="https://linker.paodelonga.dev">links</a> •
+    <a href="mailto:paodelonga@proton.me">contato</a> •
+    <a href="https://vitae.paodelonga.dev">ver currículo</a> •
+    <a href="./README.en.md">en-us</a> •
+    <a href="./assets/not_broken_profile.png">com banner!</a> •
   </samp>
   </div>
 </div>

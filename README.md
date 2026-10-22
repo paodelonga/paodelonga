@@ -1,35 +1,25 @@
 <div align="center">
   <div align="center">
-    <!-- <div align="left"> -->
-    <!--   <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze"> -->
-    <!--     <img src="./assets/banners/granite_waves-ing.gif" align="left" width=330vw> -->
-    <!--   </a> -->
-    <!-- </div> -->
     <div align="right">
-      <!-- <p align="left"> -->
-      <!--   <strong> -->
-      <!--     <samp>「 ┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄&nbsp;&nbsp;</samp> -->
-      <!--   </strong> -->
-      <!-- </p> -->
       <p align="left">
         <samp>
-          &nbsp; - me chame de Pão (/pɐ̃w̃/) (they/them);<br>
-          &nbsp; - pt_br (principal), en_us, de_ge;<br>
+          &nbsp; - call me Pão (/pɐ̃w̃/) (they/them);<br>
+          &nbsp; - pt_br (main), en_us, de_ge;<br>
           <br>
-          &nbsp; - curioso e autodidata;<br>
-          &nbsp; - estudante de redes na <a href="https://ifma.edu.br/">IFMA</a>;<br>
-          &nbsp; - administrador de sistemas e redes no <a href="https://www.senac.br/">SENAC</a>;<br>
-          &nbsp; - de olho em devops, infra e engenharia da computação;<br>
-          &nbsp; - projeto paralelo: deploy de coisas, homelab, servidores de minecraft<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
+          &nbsp; - a curious & self-learner;<br>
+          &nbsp; - network eng. student at <a href="https://ifma.edu.br/">IFMA</a>;<br>
+          &nbsp; - system & network admin at <a href="https://www.senac.br/">SENAC</a>;<br>
+          &nbsp; - eyeing devops, infra 'n a degree in comp engineering;<br>
+          &nbsp; - side hustle: deploy stuffs, homelab, minecraft servers<a href="https://github.com/vrykolakasmc"><sup>[1]</sup></a><a href="https://github.com/iunamc"><sup>[2]</sup></a>;<br>
           <br>
-          &nbsp; - computadores, chá, tecnologia retrô, minecraft;<br>
-          &nbsp; - música, linux, nix, pixel art, homelab;<br>
+          &nbsp; - computers, tea, retro tech, minecraft;<br>
+          &nbsp; - music, linux, nix, pixel art, homelab;<br>
           <br>
-          &nbsp; - back-end, devops, infra, redes;<br>
-          &nbsp; - switching, roteamento, firewalls, projeto de redes;<br>
+          &nbsp; - back-end, devops, infra, networks;<br>
+          &nbsp; - switching, routing, firewalls, network design;<br>
           &nbsp; - docker, kubernetes, terraform, openstack, aws;<br>
           <br>
-          &nbsp; - ubuntu, mint, debian, nixos, arch(principal);<br>
+          &nbsp; - ubuntu, mint, debian, nixos, arch(main);<br>
           &nbsp; - windows, suse, centos, vmware, kvm, proxmox;<br>
           <br>
           &nbsp; - git, gitea, github, gitlab, codeberg, prometheus;<br>
@@ -38,26 +28,19 @@
           <br>
           &nbsp; - python, java, js, ts, c++, lua, rust;<br>
           &nbsp; - nix, bash, sh, fish, zsh, markdown;<br>
-          <!-- &nbsp; - banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br> -->
           <br>
       </p>
-      <!-- <p align="left"> -->
-      <!--   <strong> -->
-      <!--     <samp>&nbsp;&nbsp;┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄┈┄ 」</samp> -->
-      <!--   </strong> -->
-      <!-- </p> -->
     </div>
   </div>
   <h2></h2>
   <samp>
-    • <a href="https://paodelonga.dev">outros links</a> •
-    <a href="https://discord.gg/M9ybT9a5pB">no discord</a> •
+    • <a href="https://paodelonga.dev">other links</a> •
+    <a href="https://discord.gg/M9ybT9a5pB">on discord</a> •
     <a href="https://linker.paodelonga.dev">links</a> •
-    <a href="https://blog.paodelonga.dev">notas</a> •
-    <a href="mailto:me@paodelonga.dev">contato</a> •
-    <a href="https://vitae.paodelonga.dev">ver currículo</a> •
-    <a href="./README.en.md">en-us</a> •
-    <a href="./assets/not_broken_profile.png">com banner!</a> •
+    <a href="https://blog.paodelonga.dev">notes</a> •
+    <a href="mailto:me@paodelonga.dev">contact me</a> •
+    <a href="https://vitae.paodelonga.dev">see resume</a> •
+    <a href="./README.md">pt-br</a> •
   </samp>
   </div>
 </div>
